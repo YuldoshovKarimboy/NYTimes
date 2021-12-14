@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">New York Times</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="add_bookmark">Add Bookmark</string>
+    <string name="share_article">Share article</string>
+    <string name="most_viewed_articles">Most Viewed Articles</string>
+    <string name="most_facebook_articles">Most Facebook Articles</string>
+    <string name="last_day_most_articles">Last Day Most Articles</string>
+</resources>
